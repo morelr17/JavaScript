@@ -1,0 +1,26 @@
+div.addTask input[type="number"] {
+  text-align : right;
+  width : 50px;
+  border-radius: 6px;
+}
+div.addTask input[type="text"] {
+  width : 200px;
+  border-radius: 6px;
+}
+
+
+button {
+  background-color: #CEE1E9;
+  Color:black;
+  padding: 5px 10px;
+  border-radius: 6px;
+  cursor: pointer; 
+  box-shadow: 0 1px 8px 0 grey;
+  text-decoration: none;
+  margin: 10px;
+}
+
+
+div.addTask{
+  text-align: center;
+}

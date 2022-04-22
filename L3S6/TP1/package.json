@@ -1,0 +1,16 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "TP1 jsfs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "repository": {
+    "url": "https://gitlab-etu.fil.univ-lille1.fr/senoussin/senoussi_morel_jsfs"
+  },
+  "author": "Nawfel Senoussi - Romain Morel",
+  "license": "ISC",
+  "type": "module"
+}

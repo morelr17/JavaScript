@@ -1,0 +1,17 @@
+{
+  "name": "server_npm",
+  "version": "1.0.0",
+  "description": "le célèbre jeu Pong",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Senoussi Morel ",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.4.1",
+    "socketio": "^1.0.0"
+  }
+}

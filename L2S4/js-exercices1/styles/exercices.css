@@ -1,0 +1,24 @@
+body {
+  font-family : Verdana, Helvetica, Arial, sans-serif;
+  background-color: #DAF7A6;
+  margin : 0% 2%;
+}
+
+h1{
+ 
+  color: salmon;
+  text-decoration-line:overline;
+  font-style: italic;
+  font-stretch: extra-condensed;
+
+
+}
+
+
+kbd, var, code {
+  padding : 0px 2px;
+  font-family: "Consolas", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+  color : rgb(60,60,60);
+  font-style : bold;
+  font-size : large;
+}
